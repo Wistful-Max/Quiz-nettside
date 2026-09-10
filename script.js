@@ -10,7 +10,7 @@ const question_set = [
 
 const please = document.getElementById("test")
 please.addEventListener('click',function(){
-    document.getElementById("test").textContent = question_set[0].text
+    document.getElementById("insert").textContent = question_set[0].text
 })
 
 Math.floor(Math.random() * 11);

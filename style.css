@@ -1,3 +1,9 @@
-#test{
+#button{
     user-select: none;
+    border-style: solid;
+    padding: 0px;
+    margin: 0px;
+}
+#insert-q{
+    margin-bottom: 20px;
 }
